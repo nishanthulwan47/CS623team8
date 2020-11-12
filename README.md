@@ -7,4 +7,8 @@
 
 ## ERD of Product, Stock, and Depot relations
 
+## ![alt text](https://github.com/nishanthulwan47/CS623team8/blob/main/ERD.png?raw=true)
+
+## Schema of Product, Stock and Depot relations
+
 ## ![alt text](https://github.com/nishanthulwan47/CS623team8/blob/main/Schema.png?raw=true)

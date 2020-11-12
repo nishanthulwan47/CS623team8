@@ -36,7 +36,7 @@ public class SqlAcid {
 			TableHelper.queryPrint(dao.getStatement()); // Query tables and print, before deletion
 
 			// The depot d1 is deleted from Depot and Stock.
-			dao.Delete("DELETE FROM Stock WHERE depo_id='d1'"); //consistency
+			//dao.Delete("DELETE FROM Stock WHERE depo_id='d1'"); //consistency
 			dao.Delete("DELETE FROM Depot WHERE depo_id='d1'");
 			System.out.println("Depot 'd1' deleted.");
 			System.out.println();
