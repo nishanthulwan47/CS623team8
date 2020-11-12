@@ -8,9 +8,9 @@ public class SqlAcid {
 		// TODO Auto-generated method stub
 		
 		final String driver = "org.postgresql.Driver";
-		final String servername = " "; //Enter your server name (database name)
-		final String username = " "; //Enter your username
-		final String password = " "; //Enter your password
+		final String servername = "jdbc:postgresql://localhost:5433/postgres"; //Enter your server name (database name)
+		final String username = "postgres"; //Enter your username
+		final String password = "Nishant89@#"; //Enter your password
 		
 		Connection conn = null;
 		DirectAccess dao = null;

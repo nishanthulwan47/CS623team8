@@ -141,7 +141,7 @@ public class Connection {
 
 		Class.forName(this.driver);
 
-		connection = DriverManager.getConnection("jdbc:postgresql://localhost/" + servername, username, password);
+		connection = DriverManager.getConnection(servername , username, password);
 
 	}
 
