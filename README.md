@@ -12,3 +12,9 @@
 ## Schema of Product, Stock and Depot relations
 
 ## ![alt text](https://github.com/nishanthulwan47/CS623team8/blob/main/Schema.png?raw=true)
+
+## Deliverables
+
+### [Link to Code](https://github.com/nishanthulwan47/CS623team8/blob/main/src/javasql/SqlAcid.java)
+
+
